@@ -1,4 +1,4 @@
-# aluras
+# bytebank
 
 A new Bytebank project.
 
